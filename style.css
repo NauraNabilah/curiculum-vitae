@@ -106,8 +106,10 @@ header a {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('imagee/vanitas.jpg') ;
 }
 
-.figure {
-    display: flex;
+.porto-img {
+    width: 50%;
+    max-width: 250px;
+    height: auto;
 }
 
 * {
